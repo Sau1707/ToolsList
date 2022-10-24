@@ -23,3 +23,6 @@ Build a Webapp and convert it to desktop App: \
 ## Extra:
 [EbookFoundation](https://github.com/EbookFoundation/free-programming-books): List of programmings resources tutorials \
 [Alphafold](https://alphafold.ebi.ac.uk/): 3D structure of 200 million protein create by an IA. Could be instresting to create a game out of that \
+
+## Tecnologies:
+[Ifixit](https://www.ifixit.com/): Repair guides for every thing, written by everyone \\
