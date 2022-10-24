@@ -4,7 +4,7 @@ A list of tools to build applications
 ## Headless CMS:
 [Strapi](https://strapi.io/): The most known one, work fine but had some trouble with the database. Hard to customize \
 [Directus](https://directus.io/): Super customizable and support extenctions (written in VUE). \
-[Ghost](https://ghost.org/): Never used \
+[Ghost](https://ghost.org/): Never used
 
 ## Cross-platform Application builder:
 Build a Webapp and convert it to desktop App: \
@@ -18,19 +18,19 @@ Build a Webapp and convert it to desktop App: \
 [React-quill](https://www.npmjs.com/package/react-quill): A prebuild text editor, react version. Live demo [here](https://zenoamaro.github.io/react-quill/)
 
 ## Graphics:
-[Dalle2](https://labs.openai.com/): Text to image generator. Try to add digital art for fantastic results
+[Dalle2](https://labs.openai.com/): Text to image generator. Try to add digital art for fantastic results \
 [React-three-fiber](https://docs.pmnd.rs/react-three-fiber/getting-started/introduction): A react implementation of [threejs](https://threejs.org/) used for 3d graphics and games in website \
 [React-sortablejs](https://github.com/SortableJS/react-sortablejs): For fany sortable list, with drag and drop support. Live demo [here](https://sortablejs.github.io/react-sortablejs/)
 
 ## Hackathon:
-[VIScon](https://vis.ethz.ch/en/events/): Organized from the VIS, a small hackaton at ETHZ
+[VIScon](https://vis.ethz.ch/en/events/): Organized from the VIS, a small hackaton at ETHZ \
 [Starthack](https://www.starthack.eu/): Medium size, with bit entrepreneur evenet. In St. Gallen
 
 ## Extra:
 [EbookFoundation](https://github.com/EbookFoundation/free-programming-books): List of programmings resources tutorials \
-[Alphafold](https://alphafold.ebi.ac.uk/): 3D structure of 200 million protein create by an IA. Could be instresting to create a game out of that \
+[Alphafold](https://alphafold.ebi.ac.uk/): 3D structure of 200 million protein create by an IA. Could be instresting to create a game out of that
 
 ## Tecnologies:
 [Stremio](https://www.stremio.com/): Open souce film streaming torrent, very well done \
 [Libgen](https://libgen.rs/): Find and download any book for free \
-[Ifixit](https://www.ifixit.com/): Repair guides for every thing, written by everyone \
+[Ifixit](https://www.ifixit.com/): Repair guides for every thing, written by everyone
