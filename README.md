@@ -18,7 +18,13 @@ Build a Webapp and convert it to desktop App: \
 [React-quill](https://www.npmjs.com/package/react-quill): A prebuild text editor, react version. Live demo [here](https://zenoamaro.github.io/react-quill/)
 
 ## Graphics:
+[Dalle2](https://labs.openai.com/): Text to image generator. Try to add digital art for fantastic results
+[React-three-fiber](https://docs.pmnd.rs/react-three-fiber/getting-started/introduction): A react implementation of [threejs](https://threejs.org/) used for 3d graphics and games in website \
 [React-sortablejs](https://github.com/SortableJS/react-sortablejs): For fany sortable list, with drag and drop support. Live demo [here](https://sortablejs.github.io/react-sortablejs/)
+
+## Hackathon:
+[VIScon](https://vis.ethz.ch/en/events/): Organized from the VIS, a small hackaton at ETHZ
+[Starthack](https://www.starthack.eu/): Medium size, with bit entrepreneur evenet. In St. Gallen
 
 ## Extra:
 [EbookFoundation](https://github.com/EbookFoundation/free-programming-books): List of programmings resources tutorials \
