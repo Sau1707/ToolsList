@@ -1,6 +1,14 @@
 # ToolsList
 A list of tools to build applications
 
+## React Framework:
+[Nextjs](https://nextjs.org/): Powerfull tool for react app, can be used for static or dynamic application \
+[Expo](https://expo.dev/): Build application with react native, mainly for mobile but work also in browser
+
+## Databases:
+[Sqlite3](https://www.sqlite.org/index.html): Small database single file. For small / medium project \
+[Prisma](https://www.prisma.io/): Powerfull database integration for nextjs 
+
 ## Headless CMS:
 [Strapi](https://strapi.io/): The most known one, work fine but had some trouble with the database. Hard to customize \
 [Directus](https://directus.io/): Super customizable and support extenctions (written in VUE). \
