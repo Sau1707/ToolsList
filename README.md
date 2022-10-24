@@ -2,9 +2,9 @@
 A list of tools to build applications
 
 ## Headless CMS:
-[Strapi](https://strapi.io/): The most known one, work fine but had some trouble with the database. Hard to customize
-[Directus](https://directus.io/): Super customizable and support extenctions (written in VUE).
-[Ghost](https://ghost.org/): Never used
+[Strapi](https://strapi.io/): The most known one, work fine but had some trouble with the database. Hard to customize \
+[Directus](https://directus.io/): Super customizable and support extenctions (written in VUE). \
+[Ghost](https://ghost.org/): Never used \
 
 ## Cross-platform Application builder:
 Build a Webapp and convert it to desktop App: \
