@@ -25,5 +25,6 @@ Build a Webapp and convert it to desktop App: \
 [Alphafold](https://alphafold.ebi.ac.uk/): 3D structure of 200 million protein create by an IA. Could be instresting to create a game out of that \
 
 ## Tecnologies:
-[Libgen](https://libgen.rs/): Find and download any book for free
+[Stremio](https://www.stremio.com/): Open souce film streaming torrent, very well done \
+[Libgen](https://libgen.rs/): Find and download any book for free \
 [Ifixit](https://www.ifixit.com/): Repair guides for every thing, written by everyone \
