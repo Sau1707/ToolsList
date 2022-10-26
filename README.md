@@ -1,6 +1,6 @@
 # ToolsList e Templates
-A list of tools to build applications
-Templates in the folders
+A list of tools to build applications \
+Some projects templates in the folders
 
 ## React Framework:
 [Nextjs](https://nextjs.org/): Powerfull tool for react app, can be used for static or dynamic application \
