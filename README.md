@@ -34,6 +34,9 @@ Build a Webapp and convert it to desktop App: \
 ## Crypto:
 [3achain](https://3achain.org/): Lugano blockchain, find explorer [here](https://explorer.3achain.org/)
 
+## Python:
+[Manim](https://github.com/3b1b/manim): A python library created by 3blue1brown for creating mathematics video.
+
 ## Hackathon:
 [VIScon](https://vis.ethz.ch/en/events/): Organized from the VIS, a small hackaton at ETHZ \
 [Starthack](https://www.starthack.eu/): Medium size, with bit entrepreneur evenet. In St. Gallen
