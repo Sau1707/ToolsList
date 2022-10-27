@@ -5,7 +5,7 @@ Some projects templates in the folders
 ## React & React Native:
 [Nextjs](https://nextjs.org/): Powerfull tool for react app, can be used for static or dynamic application \
 [Expo](https://expo.dev/): Build application with react native, mainly for mobile but work also in browser \
-[React-sortablejs](https://github.com/SortableJS/react-sortablejs): For fany sortable list, with drag and drop support. Live demo [here] (https://sortablejs.github.io/react-sortablejs/) \
+[React-sortablejs](https://github.com/SortableJS/react-sortablejs): For fany sortable list, with drag and drop support. Live demo [here](https://sortablejs.github.io/react-sortablejs/) \
 [React-three-fiber](https://docs.pmnd.rs/react-three-fiber/getting-started/introduction): A react implementation of [threejs](https://threejs.org/) used for 3d graphics and games in website \
 [React-quill](https://www.npmjs.com/package/react-quill): A prebuild text editor, react version. Live demo [here](https://zenoamaro.github.io/react-quill/)
 
@@ -28,7 +28,7 @@ Build a Webapp and convert it to desktop App: \
 
 ## Artificial Intelligence:
 [Dalle2](https://labs.openai.com/): Text to image generator. Try to add digital art for fantastic results \
-[Alphafold](https://alphafold.ebi.ac.uk/): 3D structure of 200 million protein create by an IA. Could be instresting to create a game out of that \
+[Alphafold](https://alphafold.ebi.ac.uk/): 3D structure of 200 million protein create by an IA. Could be instresting to create a game out of that
 
 ## Crypto:
 [3achain](https://3achain.org/): Lugano blockchain, find explorer [here](https://explorer.3achain.org/)
