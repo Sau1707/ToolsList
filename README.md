@@ -28,7 +28,8 @@ Build a Webapp and convert it to desktop App: \
 
 ## Artificial Intelligence:
 [Dalle2](https://labs.openai.com/): Text to image generator. Try to add digital art for fantastic results \
-[Alphafold](https://alphafold.ebi.ac.uk/): 3D structure of 200 million protein create by an IA. Could be instresting to create a game out of that
+[Alphafold](https://alphafold.ebi.ac.uk/): 3D structure of 200 million protein create by an IA. Could be instresting to create a game out of that \
+[Sloyd](https://www.sloyd.ai/about): Usefull to create 3d objects
 
 ## Crypto:
 [3achain](https://3achain.org/): Lugano blockchain, find explorer [here](https://explorer.3achain.org/)
