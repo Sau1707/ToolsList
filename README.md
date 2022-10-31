@@ -8,6 +8,7 @@ Some projects templates in the folders
 [React-sortablejs](https://github.com/SortableJS/react-sortablejs): For fany sortable list, with drag and drop support. Live demo [here](https://sortablejs.github.io/react-sortablejs/) \
 [React-three-fiber](https://docs.pmnd.rs/react-three-fiber/getting-started/introduction): A react implementation of [threejs](https://threejs.org/) used for 3d graphics and games in website \
 [React-quill](https://www.npmjs.com/package/react-quill): A prebuild text editor, react version. Live demo [here](https://zenoamaro.github.io/react-quill/)
+[React-simple-maps](https://www.react-simple-maps.io/): To easly generate 2D maps, json data can be found [here](https://github.com/deldersveld/topojson) 
 
 ## Databases:
 [Sqlite3](https://www.sqlite.org/index.html): Small database single file. For small / medium project \
