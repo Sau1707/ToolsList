@@ -26,7 +26,8 @@ Some projects templates in the folders
 ## Cross-platform Application builder:
 Build a Webapp and convert it to desktop App: \
 [Electron](https://www.electronjs.org/): Uses by a lot of importat organizations, stable for production but heavy (wrapped in a chomium, eat a lot of ram) \
-[Tauri](https://tauri.app/): Quite new, build in rust, super small bundle size. Have planning for mobile support in the roadmap
+[Tauri](https://tauri.app/): Quite new, build in rust, super small bundle size. Have planning for mobile support in the roadmap \
+[Capacitor](https://capacitorjs.com/): Build apps for mobile 
 
 ## Documentations:
 [Doks](https://getdoks.org/): Build with [HUGO](https://gohugo.io/) it's a modern documentation preset. Build to be as fastest as possible
@@ -64,5 +65,5 @@ Build a Webapp and convert it to desktop App: \
 [Ifixit](https://www.ifixit.com/): Repair guides for every thing, written by everyone \
 [EbookFoundation](https://github.com/EbookFoundation/free-programming-books): List of programmings resources tutorials \
 [Desmos](https://www.desmos.com/calculator?lang=it): Grahics calculator 
-
+[Repohistory](https://app.repohistory.com/Sau1707): Track the repository for longer than 2 weeks
 
