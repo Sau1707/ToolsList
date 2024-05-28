@@ -28,6 +28,9 @@ Build a Webapp and convert it to desktop App: \
 ## Documentations:
 [Doks](https://getdoks.org/): Build with [HUGO](https://gohugo.io/) it's a modern documentation preset. Build to be as fastest as possible
 
+## Documents & Slides 
+[SliDev](https://sli.dev/) Presentation Slides for Developers
+
 ## Graphics && Artificial Intelligence:
 [Dalle2](https://labs.openai.com/): Text to image generator. Try to add digital art for fantastic results \
 [Alphafold](https://alphafold.ebi.ac.uk/): 3D structure of 200 million protein create by an IA. Could be instresting to create a game out of that \
@@ -50,4 +53,5 @@ Build a Webapp and convert it to desktop App: \
 [Libgen](https://libgen.rs/): Find and download any book for free \
 [Ifixit](https://www.ifixit.com/): Repair guides for every thing, written by everyone \
 [EbookFoundation](https://github.com/EbookFoundation/free-programming-books): List of programmings resources tutorials
+
 
