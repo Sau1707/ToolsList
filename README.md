@@ -2,6 +2,9 @@
 A list of tools to build applications \
 Some projects templates in the folders
 
+## Html
+[Html5up](https://html5up.net/) Templates for simple htmls websites, ready to be used
+
 ## React & React Native:
 [Nextjs](https://nextjs.org/): Powerfull tool for react app, can be used for static or dynamic application \
 [Expo](https://expo.dev/): Build application with react native, mainly for mobile but work also in browser \
