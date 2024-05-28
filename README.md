@@ -45,17 +45,24 @@ Build a Webapp and convert it to desktop App: \
 
 ## Python:
 [Manim](https://github.com/3b1b/manim): A python library created by 3blue1brown for creating mathematics video.
+[Streamlit](https://streamlit.io/cloud): Build web app with pythion
+
 
 ## Hackathon:
 [VIScon](https://vis.ethz.ch/en/events/): Organized from the VIS, a small hackaton at ETHZ \
 [Starthack](https://www.starthack.eu/): Medium size, with bit entrepreneur evenet. In St. Gallen
 
+## Proxy & Mail
+[Proxyscrape](https://proxyscrape.com/residential-proxies-p-t): Many proxy, pay for the bandwith.
+[Webshare](https://www.webshare.io/): Very cheap proxy, best in the market
+
 ## Extra & Tecnologies:
 [Codesphere](https://codesphere.com/): An online editor with one click to production \
-[Monaco Editor](https://microsoft.github.io/monaco-editor/) The Monaco Editor is the code editor that powers VS Code \
+[Monaco Editor](https://microsoft.github.io/monaco-editor/): The Monaco Editor is the code editor that powers VS Code \
 [Stremio](https://www.stremio.com/): Open souce film streaming torrent, very well done \
 [Libgen](https://libgen.rs/): Find and download any book for free \
 [Ifixit](https://www.ifixit.com/): Repair guides for every thing, written by everyone \
-[EbookFoundation](https://github.com/EbookFoundation/free-programming-books): List of programmings resources tutorials
+[EbookFoundation](https://github.com/EbookFoundation/free-programming-books): List of programmings resources tutorials \
+[Desmos](https://www.desmos.com/calculator?lang=it): Grahics calculator 
 
 
