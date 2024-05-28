@@ -16,7 +16,8 @@ Some projects templates in the folders
 
 ## Databases:
 [Sqlite3](https://www.sqlite.org/index.html): Small database single file. For small / medium project \
-[Prisma](https://www.prisma.io/): Powerfull database integration for nextjs 
+[Prisma](https://www.prisma.io/): Powerfull database integration for nextjs \
+[LanceDB](https://lancedb.github.io/lancedb/): Vector database, inmemory
 
 ## Headless CMS:
 [Strapi](https://strapi.io/): The most known one, work fine but had some trouble with the database. Hard to customize \
